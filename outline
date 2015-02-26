@@ -1,0 +1,15 @@
+Distribution Outline:
+
+Inventory Vector:
+-Item Class
+  -Game Class
+  -Name
+  -Quantity
+  -Price
+  -Destination: Inbound/Outbound
+  -Date
+
+-Shipping/Outbound
+  -
+-Receiving/Inbound
+  -
