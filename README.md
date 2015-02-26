@@ -12,6 +12,3 @@ Git is the most popular VCS and was written by Linus Torvalds, the creator of th
 Wikipedia: http://en.wikipedia.org/wiki/Git_(software)
 
 Guide to GitHub: https://guides.github.com
-
-Atom text editor: https://atom.io
--Built by GitHub developers
