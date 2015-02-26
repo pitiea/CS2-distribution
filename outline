@@ -8,8 +8,19 @@ Inventory Vector:
   -Price
   -Destination: Inbound/Outbound
   -Date
+  -Critically low point
 
 -Shipping/Outbound
-  -
+  -Vector of items
 -Receiving/Inbound
-  -
+  -Vector of items
+
+-Department
+  -Has item vector equipment
+  -When critically low, request new products automatically.
+  -Adding item methods should be private
+  
+-Request
+  -Send to finance
+  -bool approvedbyfinance
+  -bool approvedbylegal
