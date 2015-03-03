@@ -19,8 +19,40 @@ Inventory Vector:
   -Has item vector equipment
   -When critically low, request new products automatically.
   -Adding item methods should be private
-  
+
 -Request
   -Send to finance
   -bool approvedbyfinance
   -bool approvedbylegal
+
+-----------------------------------------------------------
+
+---From elsewhere---
+
+	Date
+		Month
+		Day
+		Year
+	P/O
+		Confirmation
+		Price
+		What the object is
+		Send date
+		Arrival Date
+	Address
+		number
+		street name
+
+---We make---
+
+	Item
+		size
+		number
+		size()
+
+	Inventory
+		storage
+		Vector<items>
+			never exceed storage space
+
+	Vendor
