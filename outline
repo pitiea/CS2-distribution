@@ -37,6 +37,7 @@ Inventory Vector:
 		Confirmation
 		Price
 		What the object is
+		Amount
 		Send date
 		Arrival Date
 	Address
